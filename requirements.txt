@@ -1,0 +1,2 @@
+djano==2.2
+djanorestframework==3.9.2
